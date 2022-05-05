@@ -1,7 +1,8 @@
 # 8051-Program-1
 
 ## Problem Statement:
-    Write 8051 Assembly language program to find the total numbers of zeros in a data item stored in 45H. Finally, send the result to RAM location 30H.
+    Write 8051 Assembly language program to find the total numbers of zeros in a data item stored in 45H.
+    Finally, send the result to RAM location 30H.
 
 ## Solution
 * Move the number at `45H` to `a` register.
